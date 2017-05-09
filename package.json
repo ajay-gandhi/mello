@@ -1,0 +1,30 @@
+{
+  "name": "mello",
+  "version": "0.0.1",
+  "description": "Unlock your Mac using an Amazon Dash button",
+  "main": "app.js",
+  "dependencies": {
+    "applescript": "^1.0.0",
+    "node-dash-button": "^0.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajay-gandhi/mello.git"
+  },
+  "keywords": [
+    "unlock",
+    "amazon",
+    "dash",
+    "mac"
+  ],
+  "author": "Ajay Gandhi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajay-gandhi/mello/issues"
+  },
+  "homepage": "https://github.com/ajay-gandhi/mello#readme"
+}
